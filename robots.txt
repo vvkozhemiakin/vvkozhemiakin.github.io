@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+Sitemap: http://cancer-research.tilda.ws/sitemap.xml
+Host: cancer-research.tilda.ws
