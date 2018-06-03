@@ -1,3 +1,7 @@
+Сайт - http://dataproject2018.ru/
+Данные и мое исследование - https://github.com/vvkozhemiakin/data_journalism
+========================
+
 Published on Tilda.cc 
 - - - 
 Upload the project to your website: 
